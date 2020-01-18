@@ -5,3 +5,6 @@ Every minute, play a 10 second audio clip to indicate that you should be plankin
 How to: https://youtu.be/feE0RCgWAUs
 
 Hardstyle plank created by Pavel Tsatsouline
+
+To run:
+`./abs.py`
